@@ -1,0 +1,11 @@
+body {
+    background: #444444;
+    color: white;
+} 
+h2 {
+    background: #ff40ff;
+    margin-left:    100px;
+    margin-right:    75px;
+    margin-top:      25px;
+    margin-bottom:   50px;
+}
